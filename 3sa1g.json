@@ -1,0 +1,144 @@
+{
+	"providerName": "Acme Productions",
+	"language": "en-US",
+	"lastUpdated": "2016-06-15T22:21:37+00:00",
+	"movies": [
+		{
+			"id": "princesamononoke",
+			"title": "Princesa Mononoke",
+			"content": {
+				"dateAdded": "23-03-2018",
+				"videos": [
+					{
+						"url": "https://streamango.com/v/d/lkceafqdsfaerqof~1521926390~152.173.0.0~_-ioTHee/694",
+						"": "",
+						"quality": "HD",
+						"videoType": "MP4",
+						"bitrate": 1328.0
+					}
+				],
+				"duration": 53,
+				"trickPlayFiles": [
+					{
+						"url": "http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/decbe34b64ea4ca281dc09997d0f23fd/j5_.540x304.jpeg",
+						"quality": "HD"
+					}
+				]
+			},
+			"genres": [
+				"Anime"
+			],
+			"tags": [
+				"gaming"
+			],
+			"thumbnail": "https://pics.filmaffinity.com/mononoke_hime-598406013-large.jpg",
+			"releaseDate": "2016-06-15",
+			"shortDescription": "Watch the most popular game broadcasts."
+		}
+	],
+	"series": [
+		{
+			"id": "1037510958109183094109r094809",
+			"title": "A Series About Channels",
+			"seasons": [
+				{
+					"seasonNumber": 1,
+					"episodes": [
+						{
+							"id": "6c9d0951d6d74229afe4adf972b278dd",
+							"title": "Let's Get Cookin'",
+							"content": {
+								"dateAdded": "2016-06-15T22:21:37+00:00",
+								"videos": [
+									{
+										"url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/6c9d0951d6d74229afe4adf972b278dd/bc227724e2854c6b93ad48d1feb39c16/roku_ep_115_segment_5_paula_nw_050515.mp4",
+										"quality": "HD",
+										"videoType": "MP4",
+										"bitrate": 1328.0
+									}
+								],
+								"duration": 59,
+								"trickPlayFiles": [
+									{
+										"url": "http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/decbe34b64ea4ca281dc09997d0f23fd/j5_.540x304.jpeg",
+										"quality": "HD"
+									}
+								]
+							},
+							"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+							"episodeNumber": 1,
+							"releaseDate": "2016-06-15",
+							"shortDescription": "Paula Deen new and hilarious cooking and lifestyle show."
+						},
+						{
+							"id": "7405a8c101ee4c9da312c426e6067044",
+							"title": "Ideas Worth Spreading",
+							"content": {
+								"dateAdded": "2016-06-15T22:21:37+00:00",
+								"videos": [
+									{
+										"url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/7405a8c101ee4c9da312c426e6067044/dc0d29c5dde34565a3be95987f2956fe/roku_ep_115_segment_1_ted_nw_050515.mp4",
+										"quality": "HD",
+										"videoType": "MP4",
+										"bitrate": 1328.0
+									}
+								],
+								"duration": 71,
+								"trickPlayFiles": [
+									{
+										"url": "http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/decbe34b64ea4ca281dc09997d0f23fd/j5_.540x304.jpeg",
+										"quality": "HD"
+									}
+								]
+							},
+							"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+							"episodeNumber": 2,
+							"releaseDate": "2016-06-15",
+							"shortDescription": "TED is a nonprofit devoted to Ideas Worth Spreading."
+						}
+					]
+				}
+			],
+			"genres": [
+				"special",
+				"food",
+				"educational"
+			],
+			"tags": [
+				"special",
+				"food",
+				"educational"
+			],
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"releaseDate": "2016-06-15",
+			"shortDescription": "The Paula Deen Channel."
+		}
+	],
+	"shortFormVideos": [
+		{
+			"id": "37d290e03d894135b07c5e514cbad72d",
+			"title": "Fight Pass",
+			"content": {
+				"dateAdded": "2016-06-15T22:21:37+00:00",
+				"videos": [
+					{
+						"url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/37d290e03d894135b07c5e514cbad72d/dfd02160a5374c39967c105a8cfff3a1/roku_ep_115_segment_3_ufc_nw_051815.mp4",
+						"quality": "HD",
+						"videoType": "MP4",
+						"bitrate": 1328.0
+					}
+				],
+				"duration": 52,
+				"trickPlayFiles": [
+					{
+						"url": "http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/37d290e03d894135b07c5e514cbad72d/xUE.540x304.jpeg",
+						"quality": "HD"
+					}
+				]
+			},
+			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
+			"shortDescription": "UFCTV gives you Live and On-Demand access to UFC events.",
+			"releaseDate": "2016-06-15"
+		}
+	]
+}
