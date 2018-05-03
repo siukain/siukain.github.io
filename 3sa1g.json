@@ -116,29 +116,31 @@
 	],
 	"shortFormVideos": [
 		{
-			"id": "37d290e03d894135b07c5e514cbad72d",
-			"title": "Fight Pass",
-			"content": {
-				"dateAdded": "2016-06-15T22:21:37+00:00",
-				"videos": [
-					{
-						"url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/37d290e03d894135b07c5e514cbad72d/dfd02160a5374c39967c105a8cfff3a1/roku_ep_115_segment_3_ufc_nw_051815.mp4",
-						"quality": "HD",
-						"videoType": "MP4",
-						"bitrate": 1328.0
-					}
-				],
-				"duration": 52,
-				"trickPlayFiles": [
-					{
-						"url": "http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/37d290e03d894135b07c5e514cbad72d/xUE.540x304.jpeg",
-						"quality": "HD"
-					}
-				]
-			},
-			"thumbnail": "https://blog.roku.com/developer/files/2016/09/thumbnail.png",
-			"shortDescription": "UFCTV gives you Live and On-Demand access to UFC events.",
-			"releaseDate": "2016-06-15"
-		}
+        "id":"73774uudu888822",
+        "title":"Capital TV",
+        "shortDescription":"UK's Number 1 Music TV Station.",
+        "thumbnail":"https://s18.postimg.org/5tn0f1f1l/capitaltv_logo.jpg",
+        "genres":[
+           "horror"
+        ],
+        "tags":[
+           "uk"
+        ],
+        "releaseDate":"2016-11-03",
+        "content":{
+           "dateAdded":"2016-11-03T04:14:54.431Z",
+          "captions":[
+
+           ],
+           "duration":150000,
+           "videos":[
+              {
+                 "url":"http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8",
+                 "quality":"HD",
+                 "videoType":"hls"
+              }
+           ]
+        }
+     }
 	]
 }
